@@ -1,6 +1,10 @@
 <html>
 <head>
-
+<style>
+  h1{
+    border: solid pink;
+  }
+  </style>
 </head>
 <body>
 <h1> Exploring HTML and CSS </h1>
